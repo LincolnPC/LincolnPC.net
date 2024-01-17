@@ -1,2 +1,2 @@
-# LincolnPC.net
+# LincolnPC
 Our Website
